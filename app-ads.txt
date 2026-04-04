@@ -1,0 +1,5 @@
+appodeal.com, 261043, DIRECT
+bidmachine.io, 1, DIRECT
+bidmachine.io, 466, DIRECT
+google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+facebook.com, Business_ID, RESELLER, c3e20eee3f780d68
